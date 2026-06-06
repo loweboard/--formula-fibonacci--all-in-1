@@ -1,4 +1,4 @@
-# --formula-fibonacci-slayer---key-generator
+# --formula-fibonacci--all-in-1
 .
 1--2---3--4---5----6--7---8--9---A----Z
 --f2+=--f1-=f1---f2+++f1++
